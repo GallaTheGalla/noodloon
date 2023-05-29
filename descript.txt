@@ -9,7 +9,7 @@ name,Noodloon
 craftman,Galla
 craftmanw,Galla
 craftmanurl,https://gallathegalla.github.io/gtg-ghosts/
-homeurl,
+homeurl,https://raw.githubusercontent.com/GallaTheGalla/noodloon/main/
 
 origin.x,5
 origin.y,13
